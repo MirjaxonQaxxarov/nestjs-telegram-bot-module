@@ -4,7 +4,7 @@ Bu loyiha **NestJS** va **Telegraf.js** asosida **Telegram bot** yaratish uchun 
 
 ---
 
-## 🚀 O‘rnatish
+## 🚀 O‘rnatish tartibi
 
 ### 1️⃣ **SRC papkasi ichiga klon qilish**
 
